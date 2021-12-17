@@ -1,2 +1,0 @@
-# EcoPack
-Be eco friendly
